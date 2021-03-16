@@ -1,0 +1,12 @@
+package quiz01;
+
+import java.util.Calendar;
+
+public class Book {
+	String bookName;
+	String writer;
+	int price;
+	int dummy;
+	Calendar open = Calendar.getInstance();
+	boolean bestseller;
+}

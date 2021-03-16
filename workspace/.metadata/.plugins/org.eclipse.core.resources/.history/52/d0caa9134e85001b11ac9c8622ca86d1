@@ -1,0 +1,24 @@
+package quiz09;
+
+public class Soldier {
+
+	// field
+	private String name;
+	private Gun[] guns;
+	private int idx;
+	
+	// constructor
+	public Soldier(String name, int gunCount) {
+		this.name = name;
+		this.idx = gunCount;
+	}
+	
+	void addGun(Gun gun) {
+		
+	}
+	
+	
+	void shoot() { }
+	
+	
+}

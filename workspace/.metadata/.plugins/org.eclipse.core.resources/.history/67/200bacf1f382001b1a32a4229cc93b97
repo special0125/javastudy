@@ -1,0 +1,38 @@
+package quiz04;
+
+public class Gun {
+	
+	// filed
+	private String model;
+	private int bullet;
+	private final int FULL_BULLET = 6;
+	
+	
+	// constructor
+	public Gun(String model, int bullet) {
+		this.model = model;
+		this.bullet = bullet;
+	}
+	
+	// method
+	public void shoot() {
+		if(bullet > 0) {
+			bullet--;
+			System.out.print("빵야! " + bullet + "발 남았다.");
+		}else {
+			System.out.println("헛빵!");
+		}
+	}
+	public void reload(int n) {
+	
+		if(bullet+n > FULL_BULLET) {
+			System.out.println((bullet+n)- FULL_BULLET + "발이 장전되었다. 현재 " + FULL_BULLET + "발");
+		}else {
+			System.out.println(n + "발이 장전되었다. 현재 " + (bullet+n) + "발");
+		}
+		
+	}
+
+	
+	
+}

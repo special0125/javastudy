@@ -1,0 +1,15 @@
+package ex01_random;
+
+public class Ex02_Math {
+	public static void main(String[] args) {
+		
+		// java.lang.Math
+		
+		System.out.println(Math.random());	// 0.0 <= Math.random() < 1.0
+		
+		// Math.random() 의 결과가 0.1보다 작을 확률은 얼마일까요?
+		
+		
+		
+	}
+}

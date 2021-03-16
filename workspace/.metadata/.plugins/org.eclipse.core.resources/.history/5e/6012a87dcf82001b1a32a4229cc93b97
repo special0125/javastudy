@@ -1,0 +1,6 @@
+package ex07_recursive;
+
+public class MainClass {
+	SayHello sh = new SayHello();
+	sh.say();
+}

@@ -1,0 +1,27 @@
+package quiz01;
+
+public class MainClass {
+	public static void main(String[] args) {
+		
+		Book book1 = new Book();
+		
+		book1.bookName = "제목";
+		book1.writer = "저자";
+		book1.price = 10000;
+		book1.dummy = 100;
+		book1.open.set(2021, 03, 11);
+		book1.bestseller = true;
+		
+		System.out.println(book1.bookName);
+		System.out.println(book1.writer);
+		System.out.println(book1.price);
+		System.out.println(book1.dummy);
+		System.out.println(book1.open);
+		System.out.println(book1.bestseller);
+	
+	
+	
+	
+	
+	}
+}

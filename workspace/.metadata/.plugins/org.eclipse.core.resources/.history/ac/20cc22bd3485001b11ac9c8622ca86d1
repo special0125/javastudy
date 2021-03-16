@@ -1,0 +1,17 @@
+package quiz08;
+
+public class SOng {
+
+	// field
+	private String title;
+	private String genre;
+
+	// constructor
+	public SOng(String title, String genre) {
+		super();
+		this.title = title;
+		this.genre = genre;
+	}
+	
+	
+}

@@ -1,0 +1,32 @@
+package quiz01;
+
+public class Watch {
+
+	int hour;
+	int minute;
+	int second;
+	
+	public Watch(int hour, int minute, int second) {
+		this.hour = hour;
+		this.minute = minute;
+		this.second = second;
+	}
+	
+	public void addHour(int n) {
+		if(n / 24 == 0) {
+			hour += n;
+		}else if(!(n % 24 == 0)) {
+			hour += n;
+		}
+		
+	}
+	
+	
+	
+	
+	public void see() {
+		System.out.println(hour + "시 " + minute + "분 " + second + "초" );
+	}
+		
+	
+}

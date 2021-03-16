@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.InternalError"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="ex03_api.Ex05_SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="ex01_user_type.Person"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="quiz02.Calculator"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="ex07_recursive.SayHello"/>
+<fullyQualifiedTypeName name="ex07_recursive.Adder"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="ex07_recursive.Calculator"/>
+<fullyQualifiedTypeName name="quiz01.Watch"/>
+<fullyQualifiedTypeName name="quiz02.Circle"/>
+<fullyQualifiedTypeName name="quiz03.Singer"/>
+<fullyQualifiedTypeName name="quiz04.MainClass"/>
+<fullyQualifiedTypeName name="quiz05.BankAccount"/>
+<fullyQualifiedTypeName name="quiz06.BreadAndChange"/>
+<fullyQualifiedTypeName name="quiz06.Bakery"/>
+<fullyQualifiedTypeName name="quiz07.MainClass"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="quiz08.Singer"/>
+<fullyQualifiedTypeName name="javax.security.sasl.RealmCallback"/>
+<fullyQualifiedTypeName name="quiz04.Soldier"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+</qualifiedTypeNameHistroy>
