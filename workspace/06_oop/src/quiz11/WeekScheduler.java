@@ -181,19 +181,5 @@ public class WeekScheduler {
 		}
 	}
 	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 }

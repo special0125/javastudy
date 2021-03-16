@@ -31,12 +31,13 @@
 <fullyQualifiedTypeName name="quiz06.BreadAndChange"/>
 <fullyQualifiedTypeName name="quiz06.Bakery"/>
 <fullyQualifiedTypeName name="quiz07.MainClass"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="quiz08.Singer"/>
 <fullyQualifiedTypeName name="javax.security.sasl.RealmCallback"/>
 <fullyQualifiedTypeName name="quiz04.Soldier"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="quiz11.WeekScheduler"/>
 </qualifiedTypeNameHistroy>
