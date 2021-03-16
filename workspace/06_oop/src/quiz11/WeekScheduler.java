@@ -73,7 +73,7 @@ public class WeekScheduler {
 					week[i].setSchedule(schedule);
 					System.out.println(weekName + "요일에 신규 스케쥴이 저장되었습니다.");
 				}else {
-					System.out.println(weekName + "요일은  이미 스케쥴이 있습니다.");
+					System.out.println(weekName + "요일은 이미 스케쥴이 있습니다.");
 				}
 				break;	// for문 종료
 			}
