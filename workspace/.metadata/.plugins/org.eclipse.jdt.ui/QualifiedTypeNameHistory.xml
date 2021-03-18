@@ -21,7 +21,6 @@
 <fullyQualifiedTypeName name="java.awt.Rectangle"/>
 <fullyQualifiedTypeName name="ex07_recursive.SayHello"/>
 <fullyQualifiedTypeName name="ex07_recursive.Adder"/>
-<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 <fullyQualifiedTypeName name="ex07_recursive.Calculator"/>
 <fullyQualifiedTypeName name="quiz01.Watch"/>
 <fullyQualifiedTypeName name="quiz02.Circle"/>
@@ -42,4 +41,13 @@
 <fullyQualifiedTypeName name="quiz12.SeatGroup"/>
 <fullyQualifiedTypeName name="quiz12.ConcertHall"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="quiz.SalaryMan"/>
+<fullyQualifiedTypeName name="quiz.SalesMan"/>
+<fullyQualifiedTypeName name="quiz.Staff"/>
+<fullyQualifiedTypeName name="quiz.Alba"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="ex09_upcasting.Coffee"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="ex09_upcasting.Espresso"/>
+<fullyQualifiedTypeName name="ex09_upcasting.Latte"/>
 </qualifiedTypeNameHistroy>
