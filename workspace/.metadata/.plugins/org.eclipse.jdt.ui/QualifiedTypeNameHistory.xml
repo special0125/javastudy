@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.InternalError"/>
-<fullyQualifiedTypeName name="java.lang.Long"/>
-<fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="java.lang.Boolean"/>
 <fullyQualifiedTypeName name="java.lang.Double"/>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
@@ -33,7 +30,6 @@
 <fullyQualifiedTypeName name="quiz08.Singer"/>
 <fullyQualifiedTypeName name="javax.security.sasl.RealmCallback"/>
 <fullyQualifiedTypeName name="quiz04.Soldier"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
 <fullyQualifiedTypeName name="quiz11.WeekScheduler"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -47,7 +43,21 @@
 <fullyQualifiedTypeName name="quiz.Alba"/>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 <fullyQualifiedTypeName name="ex09_upcasting.Coffee"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="ex09_upcasting.Espresso"/>
 <fullyQualifiedTypeName name="ex09_upcasting.Latte"/>
+<fullyQualifiedTypeName name="quiz02.Alba"/>
+<fullyQualifiedTypeName name="quiz02.Company"/>
+<fullyQualifiedTypeName name="ex10_downcasting.Person"/>
+<fullyQualifiedTypeName name="ex10_downcasting.Student"/>
+<fullyQualifiedTypeName name="quiz03.SalesMan"/>
+<fullyQualifiedTypeName name="ex11_abstract.SalaryMan"/>
+<fullyQualifiedTypeName name="ex12_abstract.Shape"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicBorders.RadioButtonBorder"/>
+<fullyQualifiedTypeName name="ex12_abstract.Rectangle"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="ex12_abstract.Square"/>
+<fullyQualifiedTypeName name="ex12_abstract.Triangle"/>
+<fullyQualifiedTypeName name="ex12_abstract.Circle"/>
+<fullyQualifiedTypeName name="quiz04.KoreanFighter"/>
 </qualifiedTypeNameHistroy>
