@@ -2,5 +2,11 @@
 <typeInfoHistroy>
 <typeInfo handle="=07_inheritance/C:\/Program Files\/Java\/jre1.8.0_202\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1616025738597"/>
 <typeInfo handle="=07_inheritance/src&lt;ex12_abstract{Shape.java[Shape" modifiers="1025" timestamp="1616053093196"/>
-<typeInfo handle="=07_inheritance/src&lt;quiz04{Fighter.java[Fighter" modifiers="1025" timestamp="1616055215046"/>
+<typeInfo handle="=07_inheritance/src&lt;quiz04{Fighter.java[Fighter" modifiers="1025" timestamp="1616114545755"/>
+<typeInfo handle="=07_inheritance/src&lt;ex14_interface{Animal.java[Animal" modifiers="513" timestamp="1616117284361"/>
+<typeInfo handle="=07_inheritance/src&lt;ex15_interface_extends{Phone.java[Phone" modifiers="1" timestamp="1616119396504"/>
+<typeInfo handle="=07_inheritance/src&lt;ex15_interface_extends{Computable.java[Computable" modifiers="513" timestamp="1616119397065"/>
+<typeInfo handle="=07_inheritance/src&lt;ex16_interface_extends{Pet.java[Pet" modifiers="1" timestamp="1616120429823"/>
+<typeInfo handle="=07_inheritance/src&lt;quiz05{Terran.java[Terran" modifiers="1" timestamp="1616124187678"/>
+<typeInfo handle="=08_exception/C:\/Program Files\/Java\/jre1.8.0_202\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1616025738597"/>
 </typeInfoHistroy>
