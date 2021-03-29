@@ -16,7 +16,7 @@ public class ObjectOutputStreamMainClass {
 			// 1. 개별 저장
 			Board board = new Board("공지", "잘읽어라", "관리자");
 			oos.writeObject(board);  // board 객체는 반드시 "직렬화"가 되어 있어야 합니다.
-			
+						
 			
 			// 2. ArrayList 저장
 			List<Board> boardList = new ArrayList<Board>();

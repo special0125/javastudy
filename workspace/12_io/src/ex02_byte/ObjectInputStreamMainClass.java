@@ -31,5 +31,7 @@ public class ObjectInputStreamMainClass {
 				e.printStackTrace();
 			}
 		}
+		
+		
 	}
 }
